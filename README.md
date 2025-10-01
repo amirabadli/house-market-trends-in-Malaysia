@@ -21,10 +21,8 @@ My team analyzed regional price movements, demographic preferences, property typ
 - Canva: infographic design
 
 ## 📄Deliverables  
+[View Poster](Deliverables/Property_Demographics_in_Malaysia.pdf)
 
-### Infographic Poster  
 
-[![Page 1](Deliverables/page1.png)](Deliverables/Property_Demographics_in_Malaysia.pdf)  
-[![Page 2](Deliverables/page2.png)](Deliverables/Property_Demographics_in_Malaysia.pdf)  
 
 
