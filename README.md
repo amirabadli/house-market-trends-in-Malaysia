@@ -19,3 +19,12 @@ My team analyzed regional price movements, demographic preferences, property typ
 ## 🛠️Tools & Libraries
 - Python: pandas, matplotlib, seaborn
 - Canva: infographic design
+
+## 📄Deliverables  
+
+### Infographic Poster  
+
+[![Page 1](Deliverables/page1.png)](Deliverables/Property_Demographics_in_Malaysia.pdf)  
+[![Page 2](Deliverables/page2.png)](Deliverables/Property_Demographics_in_Malaysia.pdf)  
+
+
