@@ -22,5 +22,5 @@ My team analyzed regional price movements, demographic preferences, property typ
 
 ## 📄Deliverables  
 - [Poster](deliverables/property_demographics_malaysia.pdf)
-- [Python codes](notebooks/house_market_EDA.ipynb)
+- [Python scripts](notebooks/house_market_EDA.ipynb)
 
