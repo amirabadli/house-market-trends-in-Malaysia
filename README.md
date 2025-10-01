@@ -10,6 +10,11 @@ My team analyzed regional price movements, demographic preferences, property typ
 - Created Python visualizations (matplotlib, seaborn) for affordability and demand.
 - Contributed to infographic design, ensuring clarity and storytelling.
 
+## Key Insights:
+- Almost 70% of houses bought are lower cost homes, at prices lower than RM500K.
+- Small homes can be surprisingly expensive especially in prime areas while bigger homes don't always mean pricier.
+- Landed properties prices remained stable at ~RM400K within 2021-2024 but high rise properties are increasing steadily over the years.
+
 ## Tools & Libraries
 - Python: pandas, matplotlib, seaborn
 - Canva: infographic design
