@@ -1,4 +1,4 @@
-# Regional & Demographic Trends in Malaysia’s Housing Market (2021–2024)
+# 🏘️Regional & Demographic Trends in Malaysia’s Housing Market (2021–2024)
 
 This is part of a *community project* organized by Wanita Data.
 
@@ -17,4 +17,3 @@ My team analyzed regional price movements, demographic preferences, property typ
 ## Deliverables
 - Google Colab (EDA & visualizations)
 - Final infographic poster (summary of findings)
-
